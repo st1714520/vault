@@ -1,2 +1,8 @@
 .obsidian/
 .trash/
+
+# 建置殘留與暫存檔
+work/presentations/*/node_modules/
+work/presentations/*/tmp/
+*.tmp.png
+*.tmp.jpg
